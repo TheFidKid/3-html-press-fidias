@@ -1,0 +1,12 @@
+/* Custom style that overwrites framework CSS */
+/* make sure this file ling goes after the link to teh framework CSS */
+
+.box {
+    width:200px;
+    height: 200px;
+    padding-left: 10px;
+}
+
+section {
+    margin-top: 10%;
+}
