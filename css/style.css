@@ -21,7 +21,7 @@ html, body {height: 100%;}
     overflow: hidden;
 
     */
-    background-image: url("/img/gg-540Icon-3v2.png");
+    background-image: url("/img/goal-3.png");
     /* Full height */
     height: 100%; 
 
@@ -48,6 +48,17 @@ html, body {height: 100%;}
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+}
+
+img {
+    float:left
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
 
 /* Fullscreen Video*/
